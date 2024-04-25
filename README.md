@@ -3,7 +3,7 @@
 
 * Used an ADS 1115 ADC and a TroikaI2Chub multiplexer
 
-* To run the app locally:
+# To run the app locally:
   1. `pip install serial && pip install flask`
   1. `python3 app.py`
 
