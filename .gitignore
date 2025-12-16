@@ -1,0 +1,43 @@
+/build
+/hardware
+/venv
+node_modules
+downloads
+records
+data
+test-bin
+logs
+__pycache__
+
+package-lock.json
+*.log
+*.zip
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.pyc
+*.csv
+*.env
+*.iml
+.DS_Store
+.directory
+
+manifest.mf
+nbbuild.xml
+nbproject
